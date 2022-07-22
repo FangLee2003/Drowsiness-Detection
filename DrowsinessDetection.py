@@ -1,5 +1,3 @@
-# https://pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
-
 import imutils
 from imutils.video import VideoStream
 from imutils import face_utils
