@@ -2,4 +2,4 @@
 
 ### Monitor eye aspect ratio to detect drowsiness
 
-![preview](https://user-images.githubusercontent.com/75077747/180349152-24fcf05a-6967-421b-bac8-f73e0aa1b572.png)
+![preview](https://user-images.githubusercontent.com/75077747/180351200-331a9a55-6ec2-4289-8d4d-54b851bb88d0.png)
